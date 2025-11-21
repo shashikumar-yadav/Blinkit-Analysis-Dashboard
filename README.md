@@ -23,4 +23,4 @@ The dashboard provides actionable insights into revenue trends, product performa
 
 ## Screenshot / Demo
   
-  This is how Dashboard looks like: ![Dashboard Preview](https://github.com/shashikumar-yadav/Blinkit-Analysis-Dashboard/blob/main/Blinkit_Analysis_Dashboard.png)
+  ![Dashboard Preview](https://github.com/shashikumar-yadav/Blinkit-Analysis-Dashboard/blob/main/Blinkit_Analysis_Dashboard.png)
